@@ -1,0 +1,1 @@
+print("Svitlana Bublyk, Group 2 - 2025")
